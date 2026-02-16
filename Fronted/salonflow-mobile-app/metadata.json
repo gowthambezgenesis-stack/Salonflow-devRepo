@@ -1,0 +1,5 @@
+{
+  "name": "SalonFlow Mobile App",
+  "description": "A mobile-first Progressive Web App (PWA) for SalonFlow, providing dedicated interfaces for Salon Owners and Customers.",
+  "requestFramePermissions": []
+}
